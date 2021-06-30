@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ladval
-- 👀 I’m interested in backend promgramming, automation, algorithms,  and photography
+- 👀 I’m interested in backend promgramming, automation, algorithms,  and web apps.
 - 🌱 I’m currently learning PHP and Javascript
 - 💞️ I’m looking to collaborate on PHP and Javascript
 - 📫 How to reach me: Jesús Antonio Ladino Valbuena
