@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ladval
-- 👀 I’m interested in backend promgramming, automation, algorithms and web apps.
-- 🌱 I’m currently work with Powershell, PHP and Javascript
-- 💞️ I’m looking to collaborate more on PHP and Javascript
+- 👀 I’m interested in backend promgramming, automation, algorithms, APIs, and backend development.
+- 🌱 I’m currently work with Powershell, PHP, GOLANG and Javascript
+- 💞️ I’m looking to collaborate more on GO, PHP and Javascript
 - 📫 How to reach me: Antonio Ladino Valbuena
 
 <!---
